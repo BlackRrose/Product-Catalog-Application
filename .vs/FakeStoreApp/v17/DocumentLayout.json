@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\FakeStoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0446F438-B992-4773-9B04-7EB694D13F39}|FakeStoreApp\\FakeStoreApp.csproj|c:\\projects\\fakestoreapp\\fakestoreapp\\controllers\\productviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446F438-B992-4773-9B04-7EB694D13F39}|FakeStoreApp\\FakeStoreApp.csproj|solutionrelative:fakestoreapp\\controllers\\productviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446F438-B992-4773-9B04-7EB694D13F39}|FakeStoreApp\\FakeStoreApp.csproj|c:\\projects\\fakestoreapp\\fakestoreapp\\views\\productview\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0446F438-B992-4773-9B04-7EB694D13F39}|FakeStoreApp\\FakeStoreApp.csproj|solutionrelative:fakestoreapp\\views\\productview\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446F438-B992-4773-9B04-7EB694D13F39}|FakeStoreApp\\FakeStoreApp.csproj|c:\\projects\\fakestoreapp\\fakestoreapp\\tests\\productreposervicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446F438-B992-4773-9B04-7EB694D13F39}|FakeStoreApp\\FakeStoreApp.csproj|solutionrelative:fakestoreapp\\tests\\productreposervicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446F438-B992-4773-9B04-7EB694D13F39}|FakeStoreApp\\FakeStoreApp.csproj|c:\\projects\\fakestoreapp\\fakestoreapp\\models\\productsreposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446F438-B992-4773-9B04-7EB694D13F39}|FakeStoreApp\\FakeStoreApp.csproj|solutionrelative:fakestoreapp\\models\\productsreposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446F438-B992-4773-9B04-7EB694D13F39}|FakeStoreApp\\FakeStoreApp.csproj|c:\\projects\\fakestoreapp\\fakestoreapp\\views\\productview\\_productgridpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0446F438-B992-4773-9B04-7EB694D13F39}|FakeStoreApp\\FakeStoreApp.csproj|solutionrelative:fakestoreapp\\views\\productview\\_productgridpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446F438-B992-4773-9B04-7EB694D13F39}|FakeStoreApp\\FakeStoreApp.csproj|c:\\projects\\fakestoreapp\\fakestoreapp\\models\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446F438-B992-4773-9B04-7EB694D13F39}|FakeStoreApp\\FakeStoreApp.csproj|solutionrelative:fakestoreapp\\models\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446F438-B992-4773-9B04-7EB694D13F39}|FakeStoreApp\\FakeStoreApp.csproj|c:\\projects\\fakestoreapp\\fakestoreapp\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446F438-B992-4773-9B04-7EB694D13F39}|FakeStoreApp\\FakeStoreApp.csproj|solutionrelative:fakestoreapp\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446F438-B992-4773-9B04-7EB694D13F39}|FakeStoreApp\\FakeStoreApp.csproj|c:\\projects\\fakestoreapp\\fakestoreapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0446F438-B992-4773-9B04-7EB694D13F39}|FakeStoreApp\\FakeStoreApp.csproj|solutionrelative:fakestoreapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446F438-B992-4773-9B04-7EB694D13F39}|FakeStoreApp\\FakeStoreApp.csproj|c:\\projects\\fakestoreapp\\fakestoreapp\\views\\productview\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0446F438-B992-4773-9B04-7EB694D13F39}|FakeStoreApp\\FakeStoreApp.csproj|solutionrelative:fakestoreapp\\views\\productview\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446F438-B992-4773-9B04-7EB694D13F39}|FakeStoreApp\\FakeStoreApp.csproj|c:\\projects\\fakestoreapp\\fakestoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446F438-B992-4773-9B04-7EB694D13F39}|FakeStoreApp\\FakeStoreApp.csproj|solutionrelative:fakestoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2237,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Projects\\FakeStoreApp\\FakeStoreApp\\Views\\ProductView\\Details.cshtml",
+              "RelativeDocumentMoniker": "FakeStoreApp\\Views\\ProductView\\Details.cshtml",
+              "ToolTip": "C:\\Projects\\FakeStoreApp\\FakeStoreApp\\Views\\ProductView\\Details.cshtml",
+              "RelativeToolTip": "FakeStoreApp\\Views\\ProductView\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T21:53:22.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepoServiceTests.cs",
+              "DocumentMoniker": "C:\\Projects\\FakeStoreApp\\FakeStoreApp\\Tests\\ProductRepoServiceTests.cs",
+              "RelativeDocumentMoniker": "FakeStoreApp\\Tests\\ProductRepoServiceTests.cs",
+              "ToolTip": "C:\\Projects\\FakeStoreApp\\FakeStoreApp\\Tests\\ProductRepoServiceTests.cs",
+              "RelativeToolTip": "FakeStoreApp\\Tests\\ProductRepoServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T16:52:44.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ProductGridPartial.cshtml",
+              "DocumentMoniker": "C:\\Projects\\FakeStoreApp\\FakeStoreApp\\Views\\ProductView\\_ProductGridPartial.cshtml",
+              "RelativeDocumentMoniker": "FakeStoreApp\\Views\\ProductView\\_ProductGridPartial.cshtml",
+              "ToolTip": "C:\\Projects\\FakeStoreApp\\FakeStoreApp\\Views\\ProductView\\_ProductGridPartial.cshtml",
+              "RelativeToolTip": "FakeStoreApp\\Views\\ProductView\\_ProductGridPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T23:36:17.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projects\\FakeStoreApp\\FakeStoreApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FakeStoreApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projects\\FakeStoreApp\\FakeStoreApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FakeStoreApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T22:03:24.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\FakeStoreApp\\FakeStoreApp\\Views\\ProductView\\Index.cshtml",
+              "RelativeDocumentMoniker": "FakeStoreApp\\Views\\ProductView\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\FakeStoreApp\\FakeStoreApp\\Views\\ProductView\\Index.cshtml",
+              "RelativeToolTip": "FakeStoreApp\\Views\\ProductView\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T18:21:36.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductViewController.cs",
+              "DocumentMoniker": "C:\\Projects\\FakeStoreApp\\FakeStoreApp\\Controllers\\ProductViewController.cs",
+              "RelativeDocumentMoniker": "FakeStoreApp\\Controllers\\ProductViewController.cs",
+              "ToolTip": "C:\\Projects\\FakeStoreApp\\FakeStoreApp\\Controllers\\ProductViewController.cs",
+              "RelativeToolTip": "FakeStoreApp\\Controllers\\ProductViewController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T21:15:16.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepo.cs",
+              "DocumentMoniker": "C:\\Projects\\FakeStoreApp\\FakeStoreApp\\Models\\IProductRepo.cs",
+              "RelativeDocumentMoniker": "FakeStoreApp\\Models\\IProductRepo.cs",
+              "ToolTip": "C:\\Projects\\FakeStoreApp\\FakeStoreApp\\Models\\IProductRepo.cs",
+              "RelativeToolTip": "FakeStoreApp\\Models\\IProductRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T19:17:26.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Projects\\FakeStoreApp\\FakeStoreApp\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "FakeStoreApp\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Projects\\FakeStoreApp\\FakeStoreApp\\Models\\ProductModel.cs",
+              "RelativeToolTip": "FakeStoreApp\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T19:10:08.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsRepoService.cs",
+              "DocumentMoniker": "C:\\Projects\\FakeStoreApp\\FakeStoreApp\\Models\\ProductsRepoService.cs",
+              "RelativeDocumentMoniker": "FakeStoreApp\\Models\\ProductsRepoService.cs",
+              "ToolTip": "C:\\Projects\\FakeStoreApp\\FakeStoreApp\\Models\\ProductsRepoService.cs",
+              "RelativeToolTip": "FakeStoreApp\\Models\\ProductsRepoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T19:08:49.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\FakeStoreApp\\FakeStoreApp\\Program.cs",
+              "RelativeDocumentMoniker": "FakeStoreApp\\Program.cs",
+              "ToolTip": "C:\\Projects\\FakeStoreApp\\FakeStoreApp\\Program.cs",
+              "RelativeToolTip": "FakeStoreApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T18:02:14.134Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

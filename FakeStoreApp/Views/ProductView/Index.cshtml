@@ -1,0 +1,95 @@
+﻿@model (IEnumerable<ProductModel> products, int totalCount, int page, int pageSize)
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <img src="~/images/DTG.png" alt="DTG.png" class="img-fluid" />
+    <h1 class="display-4">Welcome to The FAKE-APP-STORE</h1>
+</div>
+
+<div class="container mt-4">
+    <div class="row mb-3">
+        <div class="col-md-4">
+            <input type="text" id="seatchInput" class="form-control" placeholder="Search..." />
+        </div>
+        <div class="col-md-4">
+            <select id="categorySelect" class="form-select">
+                <option value="">All Categories</option>
+                <option value="men's clothing">Men</option>
+                <option value="women's clothing">Women</option>
+                <option value="jewelery">Jewelery</option>
+                <option value="electronics">Electronics</option>
+            </select>
+        </div>
+        <div class="col-md-4">
+            <select id="sortSelect" class="form-select">
+                <option value="">Sort By</option>
+                <option value="price_asc">Price Asc.</option>
+                <option value="price_desc">Price Desc.</option>
+                <option value="name_asc">Name (A-Z)</option>
+                <option value="name_desc">Name (Z-A)</option>
+            </select>
+        </div>
+        <br />
+        <div id="productContainer">
+            @await Html.PartialAsync("_ProductGridPartial", Model)
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <script>
+        let page = 1
+        let pageSize = @Model.pageSize
+
+        loadProducts = () => {
+            var search = $('#seatchInput').val();
+            var category = $('#categorySelect').val();
+            var sort = $('#sortSelect').val();
+
+            $.get('ProductView/Index', {
+                search,
+                category,
+                sort,
+                page,
+                pageSize
+
+            }, function (result) {
+                $('#productContainer').html(result);
+            });
+        }
+
+        $(document).ready(function () {
+            $('#seatchInput').on('keyup', refresh(loadProducts, 300));
+            $('#categorySelect, #sortSelect').on('change', () => {page = 1; loadProducts(); });
+            $(document).on('click', '.pagination-btn', function () {
+                page = $(this).data('page');
+                loadProducts();
+            });
+
+            function refresh(func, delay) {
+                let timer;
+                return function () {
+                    clearTimeout(timer);
+                    timer = setTimeout(func, delay);
+                };
+            }
+        });
+
+    </script>
+}
+
+<style>
+    #productContainer {
+        margin-top: 20px;
+    }
+
+    .img-fluid {
+        max-width: 45%;
+        height: auto;
+        max-height: 65%;
+        object-fit: contain;
+    }
+</style>
